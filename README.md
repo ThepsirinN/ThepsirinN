@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 💫 About Me:
-👷‍♂️ Currently working on : Express JS, SQL.<br>📚 Currently learning : Go Lang, JS Datastructure and Algorithm.<br>🌐 Language / Frameworks : JS, SQL, No-SQL , PHP, Python, C / Express JS, React JS.<br>🆓 Hobby : Learning📖, Coding, Runing🏃‍♂️, Football⚽ and Guitar🎸.<br>📧 Contact : Thepsirin.naw@gmail.com<br>👓 Lookin For : Full Stack Developer Role.
+👷‍♂️ Currently working on : Express JS, SQL.<br>📚 Currently learning : Go Lang, JS Datastructure and Algorithm.<br>🌐 Language / Frameworks : JS, SQL, No-SQL , PHP, Python, C / Express JS, React JS.<br>🆓 Hobby : Learning📖, Coding💬, Runing🏃‍♂️, Football⚽ and Guitar🎸.<br>📧 Contact : Thepsirin.naw@gmail.com<br>👓 Lookin For : Full Stack Developer Role.
 
 
 ## 🌐 Socials:
